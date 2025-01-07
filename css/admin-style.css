@@ -1,0 +1,27 @@
+/** -----------------------------------------------
+* SegersMat custom admin stylesheet
+*
+* Version: 1.0.0
+*
+* @package SegersMat
+* ----------------------------------------------- */
+
+/* ---------------------------------------
+*  CONTENT
+* ----------------------------------------
+* . ACF
+* . Settings page
+*
+------------------------------------------*/
+
+/* ---------------------------------------
+* ACF
+*----------------------------------------*/
+.acf-field-message label { font-size: 24px; }
+.acf-field-group>.acf-label>label {
+  font-size: 20px;
+  color: #9FAB67;
+}
+.acf-field.acf-accordion .acf-accordion-title { background: #f9f9f9; }
+.acf-accordion .acf-accordion-title label { font-size: 18px!important; }
+.acf-field-5d1e811584da9 label { font-size: 13px!important; }
